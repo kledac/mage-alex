@@ -2,7 +2,7 @@
 # The beggining
 
 > First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.  
--Napoleon Hill  
+---Napoleon Hill  
 
 Essa história começa com Lilian Rodrigues e Bruno Fernandes. Bruno era um rapaz muito bem apesoado, era um poeta, um sonhador que trabalhava duro para conseguir seu suado dinheiro trabalhando bicos na cidade ou tocando em bares.
 
@@ -19,7 +19,7 @@ Chorando, em um mundo estranho e frio, Alex conheceu pela primeira vez a sensaç
 # Little Alex
 
 > There are two great days in a person's life - the day we are born and the day we discover why. 
-> -William Barclay  
+> ---William Barclay  
 
 
 Alex cresceu em um lar cristão para crianças, onde criaças abandonadas, que perderam os pais iam para morar e serem adotadas.
@@ -37,13 +37,14 @@ Apesar de ser um ....
 
 # Wake up Alex
 
->When I was eight, I would look at the cover of the 'Ghost Rider' comic book in my little home in Long Beach, California, and I couldn't get my head around how something that scary could also be good. To me it was my first philosophical awakening - 'How is this possible, this duality?'  
-Robert 
+>Drawing is still basically the same as it has been since prehistoric times. It brings together man and the world. It lives through magic. 
+---Keith Haring  
 
 
 
 
 # The Life of Awakening
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODk4NTE4OTddfQ==
+eyJoaXN0b3J5IjpbLTE5OTE5NDU4NTIsLTIwODk4NTE4OTddfQ
+==
 -->
