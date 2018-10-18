@@ -37,10 +37,13 @@ Apesar de ser um ....
 
 # Wake up Alex
 
+>When I was eight, I would look at the cover of the 'Ghost Rider' comic book in my little home in Long Beach, California, and I couldn't get my head around how something that scary could also be good. To me it was my first philosophical awakening - 'How is this possible, this duality?'  
+Robert 
+
 
 
 
 # The Life of Awakening
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0OTQ5NTUxXX0=
+eyJoaXN0b3J5IjpbLTIwODk4NTE4OTddfQ==
 -->
