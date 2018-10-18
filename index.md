@@ -32,6 +32,7 @@ Quando criança passava muito tempo na floresta atrás da Igreja, andava sozinho
 
 Por sua excentridade era visto como um outsider pela outras crianças, mas destacou-se na escola pela sua habilidade musical e artistica com a pintura. Não gostava das tintas sintéticas, mas quis o destino que uma freira(Luísa Orlina) interessa-se por Alex e esta se tornou sua tutora e ensinou-o a arte de utilizar plantas para criação de tintar orgânicas.
 
+Apesar de ser um ....
 
 
 # Wake up Alex
@@ -40,3 +41,6 @@ Por sua excentridade era visto como um outsider pela outras crianças, mas desta
 
 
 # The Life of Awakening
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzM0OTQ5NTUxXX0=
+-->
